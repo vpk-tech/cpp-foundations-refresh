@@ -1,10 +1,14 @@
 **Debugger ??**
 Slow-motion replay for your program
 
-_Debugger's powers : _
+Debugger's powers :
+
 Pause execution
+
 Inspect memory
+
 Step through code line by line
+
 Watch variables change over time
 
 
