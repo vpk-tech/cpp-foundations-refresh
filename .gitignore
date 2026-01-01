@@ -2,6 +2,7 @@
 main
 *.out
 *.exe
+Makefile
 
 # Editor / tool caches
 .ccls-cache/
@@ -12,3 +13,6 @@ replit.nix
 
 # OS junk
 .DS_Store
+
+
+
