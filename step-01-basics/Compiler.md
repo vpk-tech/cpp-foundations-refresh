@@ -14,7 +14,10 @@ Enforce language rules
 Catch mistakes before the program runs
 
 _RUN :: g++ main.cpp -o main_
+
 g++ -> compiler program
+
 main.cpp -> input source file
+
 -o main -> output executable called main (Note here name can be changed from main to anything)
 
