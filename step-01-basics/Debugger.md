@@ -4,11 +4,8 @@ Slow-motion replay for your program
 Debugger's powers :
 
 Pause execution
-
 Inspect memory
-
 Step through code line by line
-
 Watch variables change over time
 
 
